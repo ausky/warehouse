@@ -11,6 +11,7 @@
     <modules>
 
         <module>fund-auto-cast</module>
+        <module>utility</module>
     </modules>
 
     <properties>
